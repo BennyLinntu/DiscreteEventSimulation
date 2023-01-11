@@ -1,0 +1,7 @@
+C:\Users\TerryYang\source\repos\My_First_Class_Library\My_First_Class_Library\bin\Debug\My_First_Class_Library.dll
+C:\Users\TerryYang\source\repos\My_First_Class_Library\My_First_Class_Library\bin\Debug\My_First_Class_Library.pdb
+C:\Users\TerryYang\source\repos\My_First_Class_Library\My_First_Class_Library\obj\Debug\My_First_Class_Library.csproj.CoreCompileInputs.cache
+C:\Users\TerryYang\source\repos\My_First_Class_Library\My_First_Class_Library\obj\Debug\My_First_Class_Library.dll
+C:\Users\TerryYang\source\repos\My_First_Class_Library\My_First_Class_Library\obj\Debug\My_First_Class_Library.pdb
+C:\Users\TerryYang\source\repos\My_First_Class_Library\My_First_Class_Library\obj\Debug\My_First_Class_Library.csprojAssemblyReference.cache
+C:\Users\TerryYang\source\repos\My_First_Class_Library\My_First_Class_Library\bin\Debug\My_First_Class_Library.xml

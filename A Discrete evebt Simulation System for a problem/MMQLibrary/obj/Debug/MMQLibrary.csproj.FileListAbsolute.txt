@@ -1,0 +1,14 @@
+C:\Users\Benny\System File\Desktop\NTU\Second\Discrete Event Simulaton 2022\homework\Final\Final\R10546039YDLINAssSemiFinalSolution\MMQLibrary\bin\Debug\MMQLibrary.xml
+C:\Users\Benny\System File\Desktop\NTU\Second\Discrete Event Simulaton 2022\homework\Final\Final\R10546039YDLINAssSemiFinalSolution\MMQLibrary\bin\Debug\MMQLibrary.dll
+C:\Users\Benny\System File\Desktop\NTU\Second\Discrete Event Simulaton 2022\homework\Final\Final\R10546039YDLINAssSemiFinalSolution\MMQLibrary\bin\Debug\MMQLibrary.pdb
+C:\Users\Benny\System File\Desktop\NTU\Second\Discrete Event Simulaton 2022\homework\Final\Final\R10546039YDLINAssSemiFinalSolution\MMQLibrary\obj\Debug\MMQLibrary.csproj.AssemblyReference.cache
+C:\Users\Benny\System File\Desktop\NTU\Second\Discrete Event Simulaton 2022\homework\Final\Final\R10546039YDLINAssSemiFinalSolution\MMQLibrary\obj\Debug\MMQLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Benny\System File\Desktop\NTU\Second\Discrete Event Simulaton 2022\homework\Final\Final\R10546039YDLINAssSemiFinalSolution\MMQLibrary\obj\Debug\MMQLibrary.dll
+C:\Users\Benny\System File\Desktop\NTU\Second\Discrete Event Simulaton 2022\homework\Final\Final\R10546039YDLINAssSemiFinalSolution\MMQLibrary\obj\Debug\MMQLibrary.pdb
+C:\Users\Benny\System File\Desktop\NTU\Second\Discrete Event Simulaton 2022\homework\Final\Final\R10546039YDLINAssSemiFinal_Solution\MMQLibrary\bin\Debug\MMQLibrary.xml
+C:\Users\Benny\System File\Desktop\NTU\Second\Discrete Event Simulaton 2022\homework\Final\Final\R10546039YDLINAssSemiFinal_Solution\MMQLibrary\bin\Debug\MMQLibrary.dll
+C:\Users\Benny\System File\Desktop\NTU\Second\Discrete Event Simulaton 2022\homework\Final\Final\R10546039YDLINAssSemiFinal_Solution\MMQLibrary\bin\Debug\MMQLibrary.pdb
+C:\Users\Benny\System File\Desktop\NTU\Second\Discrete Event Simulaton 2022\homework\Final\Final\R10546039YDLINAssSemiFinal_Solution\MMQLibrary\obj\Debug\MMQLibrary.csproj.AssemblyReference.cache
+C:\Users\Benny\System File\Desktop\NTU\Second\Discrete Event Simulaton 2022\homework\Final\Final\R10546039YDLINAssSemiFinal_Solution\MMQLibrary\obj\Debug\MMQLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Benny\System File\Desktop\NTU\Second\Discrete Event Simulaton 2022\homework\Final\Final\R10546039YDLINAssSemiFinal_Solution\MMQLibrary\obj\Debug\MMQLibrary.dll
+C:\Users\Benny\System File\Desktop\NTU\Second\Discrete Event Simulaton 2022\homework\Final\Final\R10546039YDLINAssSemiFinal_Solution\MMQLibrary\obj\Debug\MMQLibrary.pdb

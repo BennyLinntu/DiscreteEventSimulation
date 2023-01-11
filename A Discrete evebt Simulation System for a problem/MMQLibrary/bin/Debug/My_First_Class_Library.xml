@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>My_First_Class_Library</name>
+    </assembly>
+    <members>
+        <member name="T:My_First_Class_Library.ExponenitalRVG">
+            <summary>
+            The class generate random variates that follow exponential distribution.
+            </summary>
+        </member>
+        <member name="M:My_First_Class_Library.RandomVariateGenerator.GenerateARealRandomNumber">
+            <summary>
+            Generate a random variable.
+            </summary>
+        </member>
+        <member name="M:My_First_Class_Library.RandomVariateGenerator.ReplicationVerficationForMean(System.Int32)">
+            <summary>
+            
+            </summary>
+            <param name="epoch"></param>
+            <returns></returns>
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:My_First_Class_Library.UniformRVG.#ctor(System.Double,System.Double)" -->
+    </members>
+</doc>

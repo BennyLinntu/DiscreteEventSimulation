@@ -1,0 +1,7 @@
+D:\Program Files\Document\離散事件模擬\r09546042_TerryYang_Final\Discrete_Event_Libraries\My_First_Class_Library\obj\Debug\Discrete_Event_Libraries.csproj.CoreCompileInputs.cache
+D:\Program Files\Document\離散事件模擬\r09546042_TerryYang_Final\Discrete_Event_Libraries\My_First_Class_Library\bin\Debug\Discrete_Event_Libraries.xml
+D:\Program Files\Document\離散事件模擬\r09546042_TerryYang_Final\Discrete_Event_Libraries\My_First_Class_Library\bin\Debug\Discrete_Event_Libraries.dll
+D:\Program Files\Document\離散事件模擬\r09546042_TerryYang_Final\Discrete_Event_Libraries\My_First_Class_Library\bin\Debug\Discrete_Event_Libraries.pdb
+D:\Program Files\Document\離散事件模擬\r09546042_TerryYang_Final\Discrete_Event_Libraries\My_First_Class_Library\obj\Debug\Discrete_Event_Libraries.csprojAssemblyReference.cache
+D:\Program Files\Document\離散事件模擬\r09546042_TerryYang_Final\Discrete_Event_Libraries\My_First_Class_Library\obj\Debug\Discrete_Event_Libraries.dll
+D:\Program Files\Document\離散事件模擬\r09546042_TerryYang_Final\Discrete_Event_Libraries\My_First_Class_Library\obj\Debug\Discrete_Event_Libraries.pdb

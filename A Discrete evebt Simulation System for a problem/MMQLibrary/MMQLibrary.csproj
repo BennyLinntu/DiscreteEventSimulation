@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1FB98987-1804-4C52-A3B3-7DF2CC478802}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MMQLibrary</RootNamespace>
+    <AssemblyName>MMQLibrary</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DocumentationFile>bin\Debug\MMQLibrary.xml</DocumentationFile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BernoulliDRVG.cs" />
+    <Compile Include="BreakDownEvent.cs" />
+    <Compile Include="Classdata.cs" />
+    <Compile Include="Clients.cs" />
+    <Compile Include="ClientArrivalEvent.cs" />
+    <Compile Include="ClientGenerator.cs" />
+    <Compile Include="ClientState.cs" />
+    <Compile Include="ContinuousRandomVariateGenerator.cs" />
+    <Compile Include="ContinuousRVGType.cs" />
+    <Compile Include="DemandEvent.cs" />
+    <Compile Include="DESCollectionElementEditor.cs" />
+    <Compile Include="DESElement.cs" />
+    <Compile Include="DiscreteRandomVariateGenerator.cs" />
+    <Compile Include="DiscreteEvent.cs" />
+    <Compile Include="DiscreteEventSimulationEngine.cs" />
+    <Compile Include="DiscreteEventSimulationModel.cs" />
+    <Compile Include="EquilikelyDRVGenerator.cs" />
+    <Compile Include="Event.cs" />
+    <Compile Include="ExponenitalRVG.cs" />
+    <Compile Include="gannt.cs" />
+    <Compile Include="GeometricDRVGenerator.cs" />
+    <Compile Include="Itinerary.cs" />
+    <Compile Include="Machine.cs" />
+    <Compile Include="Normal_RVG.cs" />
+    <Compile Include="Pie.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RandomVariateGenerator.cs" />
+    <Compile Include="RepairEvent.cs" />
+    <Compile Include="Server.cs" />
+    <Compile Include="ServerState.cs" />
+    <Compile Include="ServiceCompleteEvent.cs" />
+    <Compile Include="ServiceNode.cs" />
+    <Compile Include="SimulationEngine.cs" />
+    <Compile Include="stepline.cs" />
+    <Compile Include="SupplyEvent.cs" />
+    <Compile Include="TimedQueue.cs" />
+    <Compile Include="UniformRVG.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="DESmodel.cd" />
+    <None Include="MMQLibrary.cd" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Icon.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

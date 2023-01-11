@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SSQLibrary.RandomVariateGenerator">
+    <Position X="4.75" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAEAAAQEAAAEAAAAAABAAAAAAUAAAAAAABCAQ=</HashCode>
+      <FileName>RandomVariateGenerator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SSQLibrary.ContinuousRandomVariateGenerator">
+    <Position X="1.5" Y="2" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAABAAAAAAAAAAEAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>ContinuousRandomVariateGenerator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SSQLibrary.DiscreteRandomVariateGenerator">
+    <Position X="8" Y="2.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAABAAAAAAAAAAEAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>DiscreteRandomVariateGenerator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SSQLibrary.ExponentialDisCRVGenerator">
+    <Position X="1.25" Y="9.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>ACCAAAAAEAEAAAABAEAAAAAABAEAAAAFAAAAAAAhCAA=</HashCode>
+      <FileName>ExponentialDisCRVGenerator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SSQLibrary.UniformDisCRVGenerator">
+    <Position X="1.5" Y="5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAEAAAABAEAAAAAABAEAAAAFAAAAAAABCgA=</HashCode>
+      <FileName>UniformDisCRVGenerator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SSQLibrary.BuffonNeedleTipCRVGenerator">
+    <Position X="1.25" Y="14.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAICAA=</HashCode>
+      <FileName>BuffonNeedleTipCRVGenerator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SSQLibrary.EquilikelyDRVGenerator">
+    <Position X="10.75" Y="5.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQEAEAAEABAEAABQAABAEAAAAFAAAAAAABAAA=</HashCode>
+      <FileName>EquilikelyDRVGenerator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SSQLibrary.GeometricDRVGenerator">
+    <Position X="13.75" Y="4.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEACAAEAEAEAAAAAABAAAAAAEAAAAAAABAAA=</HashCode>
+      <FileName>GeometricDRVGenerator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SSQLibrary.BernoulliDRVenerator">
+    <Position X="7.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAEAEAAAABAEAAAAAABAEAAAAFABAAAAABAgA=</HashCode>
+      <FileName>BernoulliDRVenerator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SSQLibrary.Histogram">
+    <Position X="19.25" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Struct Name="SSQLibrary.Histogram.Histogramitems" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Histogram.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAQgAAAEAAABAAAAAAAAACAAEAAA=</HashCode>
+      <FileName>Histogram.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SSQLibrary.ContinuousDataHistogram">
+    <Position X="17.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>ContinuousDataHistogram.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SSQLibrary.DiscreteDataHistogram">
+    <Position X="21.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>DiscreteDataHistogram.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

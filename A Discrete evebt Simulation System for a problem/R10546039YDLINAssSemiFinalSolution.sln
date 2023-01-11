@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "R10546039YDLINFinal", "R10546039YDLINFinal\R10546039YDLINFinal.csproj", "{10D6AB0E-06C0-43B2-84BF-E832FDA0D325}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MMQLibrary", "MMQLibrary\MMQLibrary.csproj", "{1FB98987-1804-4C52-A3B3-7DF2CC478802}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10D6AB0E-06C0-43B2-84BF-E832FDA0D325}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10D6AB0E-06C0-43B2-84BF-E832FDA0D325}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10D6AB0E-06C0-43B2-84BF-E832FDA0D325}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10D6AB0E-06C0-43B2-84BF-E832FDA0D325}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FB98987-1804-4C52-A3B3-7DF2CC478802}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FB98987-1804-4C52-A3B3-7DF2CC478802}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FB98987-1804-4C52-A3B3-7DF2CC478802}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FB98987-1804-4C52-A3B3-7DF2CC478802}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A234CFB-AE5C-4D82-A04F-D6C8622F8CBA}
+	EndGlobalSection
+EndGlobal

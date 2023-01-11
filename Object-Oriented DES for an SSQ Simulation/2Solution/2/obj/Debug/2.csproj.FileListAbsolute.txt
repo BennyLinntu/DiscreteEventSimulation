@@ -1,0 +1,13 @@
+C:\Users\Benny\System File\Desktop\NTU\Second\Discrete Event Simulaton 2022\homework\homework_9\2\2Solution\2\bin\Debug\2.exe.config
+C:\Users\Benny\System File\Desktop\NTU\Second\Discrete Event Simulaton 2022\homework\homework_9\2\2Solution\2\bin\Debug\2.exe
+C:\Users\Benny\System File\Desktop\NTU\Second\Discrete Event Simulaton 2022\homework\homework_9\2\2Solution\2\bin\Debug\2.pdb
+C:\Users\Benny\System File\Desktop\NTU\Second\Discrete Event Simulaton 2022\homework\homework_9\2\2Solution\2\bin\Debug\SSQLibrary.dll
+C:\Users\Benny\System File\Desktop\NTU\Second\Discrete Event Simulaton 2022\homework\homework_9\2\2Solution\2\bin\Debug\SSQLibrary.pdb
+C:\Users\Benny\System File\Desktop\NTU\Second\Discrete Event Simulaton 2022\homework\homework_9\2\2Solution\2\obj\Debug\2.csproj.AssemblyReference.cache
+C:\Users\Benny\System File\Desktop\NTU\Second\Discrete Event Simulaton 2022\homework\homework_9\2\2Solution\2\obj\Debug\_2.MainForm.resources
+C:\Users\Benny\System File\Desktop\NTU\Second\Discrete Event Simulaton 2022\homework\homework_9\2\2Solution\2\obj\Debug\_2.Properties.Resources.resources
+C:\Users\Benny\System File\Desktop\NTU\Second\Discrete Event Simulaton 2022\homework\homework_9\2\2Solution\2\obj\Debug\2.csproj.GenerateResource.cache
+C:\Users\Benny\System File\Desktop\NTU\Second\Discrete Event Simulaton 2022\homework\homework_9\2\2Solution\2\obj\Debug\2.csproj.CoreCompileInputs.cache
+C:\Users\Benny\System File\Desktop\NTU\Second\Discrete Event Simulaton 2022\homework\homework_9\2\2Solution\2\obj\Debug\2.csproj.CopyComplete
+C:\Users\Benny\System File\Desktop\NTU\Second\Discrete Event Simulaton 2022\homework\homework_9\2\2Solution\2\obj\Debug\2.exe
+C:\Users\Benny\System File\Desktop\NTU\Second\Discrete Event Simulaton 2022\homework\homework_9\2\2Solution\2\obj\Debug\2.pdb

@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SSQLibrary.RandomVariateGenerator">
+    <Position X="4.75" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>CAAAAABAEAAAQAAAAAAAAAAAAAAAAAAQAAAAAAABCAQ=</HashCode>
+      <FileName>RandomVariateGenerator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SSQLibrary.ContinuousRandomVariateGenerator">
+    <Position X="2" Y="4.25" Width="2.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAABAAAAAAAAAAEAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>ContinuousRandomVariateGenerator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SSQLibrary.DiscreteRandomVariateGenerator">
+    <Position X="6.5" Y="4" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAABAAAAAAAAAAEAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>DiscreteRandomVariateGenerator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SSQLibrary.ExponentialDisCRVGenerator">
+    <Position X="1.5" Y="6.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>ACCAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAhCAA=</HashCode>
+      <FileName>ExponentialDisCRVGenerator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SSQLibrary.UniformDisCRVGenerator">
+    <Position X="5" Y="6.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABCgA=</HashCode>
+      <FileName>UniformDisCRVGenerator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SSQLibrary.BuffonNeedleTipCRVGenerator">
+    <Position X="7.75" Y="6" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAICAA=</HashCode>
+      <FileName>BuffonNeedleTipCRVGenerator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

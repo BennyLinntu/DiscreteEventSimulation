@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MMQLibrary</name>
+    </assembly>
+    <members>
+        <member name="T:MMQLibrary.ExponenitalRVG">
+            <summary>
+            The class generate random variates that follow exponential distribution.
+            </summary>
+        </member>
+        <member name="M:MMQLibrary.RandomVariateGenerator.GenerateARealRandomNumber">
+            <summary>
+            Generate a random variable.
+            </summary>
+        </member>
+        <member name="M:MMQLibrary.RandomVariateGenerator.GetRandomVariate(System.Boolean)">
+            <summary>
+            
+            </summary>
+            <param name="epoch"></param>
+            <returns></returns>
+            
+        </member>
+        <member name="M:RandomVariateGeneratorLibrary.Normal_RVG.GetSTD(System.Double[])">
+            <summary>
+            SDFSF
+            </summary>
+            <param name="arr"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
