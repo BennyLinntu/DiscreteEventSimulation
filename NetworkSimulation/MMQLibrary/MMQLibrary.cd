@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MMQLibrary.RandomVariateGenerator">
+    <Position X="7" Y="0.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAACAAQCUAAQEAAAAAAAAAAAAAACAAAggAAAAAQ=</HashCode>
+      <FileName>RandomVariateGenerator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MMQLibrary.ExponenitalRVG">
+    <Position X="3" Y="6.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAUCAAAREAAAAAAAAAUAAAAHAAAggAAAAAA=</HashCode>
+      <FileName>ExponenitalRVG.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MMQLibrary.UniformRVG">
+    <Position X="6.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAUCAAAREAAAAAAAAAEAAAADAAAggAAAAAA=</HashCode>
+      <FileName>UniformRVG.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MMQLibrary.ContinuousRandomVariateGenerator">
+    <Position X="3.25" Y="4.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgEAA=</HashCode>
+      <FileName>ContinuousRandomVariateGenerator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MMQLibrary.DiscreteRandomVariateGenerator">
+    <Position X="10.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgEAA=</HashCode>
+      <FileName>DiscreteRandomVariateGenerator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MMQLibrary.GeometricDRVGenerator">
+    <Position X="10.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAUCAAAREAAACQAACAEAAAADAAAggAAAAAA=</HashCode>
+      <FileName>GeometricDRVGenerator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MMQLibrary.EquilikelyDRVGenerator">
+    <Position X="8.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAUCAAAREAAAAQAAAAEAAAADAAAggAAAAAA=</HashCode>
+      <FileName>EquilikelyDRVGenerator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MMQLibrary.BernoulliDRVG">
+    <Position X="13.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAUCAAAREAAAAUAACAEAAAADAAAggAAAAAA=</HashCode>
+      <FileName>BernoulliDRVG.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="MMQLibrary.Continuous_RVG_Type">
+    <Position X="3" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Continuous_RVG_Type.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Microsoft JhengHei UI" Size="9" />
+</ClassDiagram>
